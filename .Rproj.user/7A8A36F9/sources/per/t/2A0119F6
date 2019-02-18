@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550495184587.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3969756895",
+    "id" : "2A0119F6",
+    "lastKnownWriteTime" : 1550502764,
+    "last_content_update" : 1550502764538,
+    "path" : "~/Coursera/Data_Science_Capstone/Task_1.Rmd",
+    "project_path" : "Task_1.Rmd",
+    "properties" : {
+        "cursorPosition" : "61,0",
+        "scrollLine" : "34",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
